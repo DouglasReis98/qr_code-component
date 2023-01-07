@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DouglasReis98/qr_code-component)
-- Live Site URL: [Add live site URL here](https://douglasreis98.github.io/qr_code-component/)
+- Solution URL: [https://github.com/DouglasReis98/qr_code-component]
+- Live Site URL: [https://douglasreis98.github.io/qr_code-component/]
 
 
 ### Built with
@@ -28,6 +28,6 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.douglasreis.epizy.com.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [http://douglasreis.epizy.com]
+- Frontend Mentor - [@DouglasReis98](https://www.frontendmentor.io/profile/DouglasReis98)
+- LinkedIn - [@douglas-reis98](https://www.twitter.com/yourusername)
